@@ -64,3 +64,4 @@ Miejsce: BCTW, ul. Gdańska 187, Bydgoszcz (tylko stacjonarnie).
 
 - `design-system/`: komponenty i style (styl mObywatela)
 - `.claude/skills/analiza-formularza/`: skill Claude Code do analizy formularzy i danych (`/analiza-formularza <plik>`)
+- `.claude/skills/dostepnosc/`: skill Claude Code do audytu dostępności, WCAG 2.1 AA (`/dostepnosc <plik|URL|Figma> [--fix]`)
